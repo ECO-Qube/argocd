@@ -1,3 +1,5 @@
+Note: private repo is actually here https://github.com/criscola/ecoqube-argocd because I didn't configure SSO (as git.helio.dev requires it).
+
 # ArgoCD GitOps repository
 
 This repository contains the repository for ArgoCD in ECO-Qube project. ArgoCD Autopilot was used.
